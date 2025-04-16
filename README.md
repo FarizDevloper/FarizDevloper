@@ -8,15 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="FarizDevloper"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+🔭 I’m currently working on Vexa Web App
 
-- 🌱 I’m currently learning **DevOps**
+🌱 I’m currently learning DevOps, Cybersecurity, and Full-Stack Web Development
 
-- 💬 Ask me about **Android , MEARN**
+💬 Ask me about Android Development, MERN Stack, or anything tech-related
 
-- 📫 How to reach me **vvipmsm@gmail.com**
+🛡️ Passionate about building secure and scalable apps with a focus on cyber defense
 
-- ⚡ Fun fact **I am Funny**
+🧠 Always curious, always learning
+
+📫 How to reach me: vvipmsm@gmail.com
+
+⚡ Fun fact: I turn bugs into features—and jokes into code!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
