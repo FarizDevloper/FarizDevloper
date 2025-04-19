@@ -44,15 +44,11 @@ Sarthak's GitHub activity graph [![Codeforces Badge](https://img.shields.io/badg
 
 
 
-
-[![MasterHead](https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966)](https://rishavchanda.io)
-
-
-
-###
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragpatil05&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
 
