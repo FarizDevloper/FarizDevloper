@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/3d1ad46370ac5b4527159cf699c3ea230685b1310b4f6881a085b6168c500340/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f363237333530362e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm FarizDevloper</h1>
 <h3 align="center">A passionate FullStack Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
